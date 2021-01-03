@@ -2,7 +2,7 @@
 
 this is not youtube-dl - it does not download videos from youtube.com or other video platforms
 
-installing swag
+trolling in process
 
 - [INSTALLATION](#installation)
 - [DESCRIPTION](#description)
